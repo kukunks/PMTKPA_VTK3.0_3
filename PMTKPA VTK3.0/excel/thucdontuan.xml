@@ -1,0 +1,352 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>MrTi</Author>
+    <LastAuthor>MrTi</LastAuthor>
+    <LastPrinted>2017-02-16T16:34:19Z</LastPrinted>
+    <Created>2012-09-24T01:37:53Z</Created>
+    <Version>12.00</Version>
+  </DocumentProperties>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+    <WindowHeight>9270</WindowHeight>
+    <WindowWidth>14355</WindowWidth>
+    <WindowTopX>360</WindowTopX>
+    <WindowTopY>75</WindowTopY>
+    <ProtectStructure>False</ProtectStructure>
+    <ProtectWindows>False</ProtectWindows>
+  </ExcelWorkbook>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Arial" x:CharSet="163"/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
+    </Style>
+    <Style ss:ID="m68327084">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s62">
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12"/>
+    </Style>
+    <Style ss:ID="s63">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s65">
+      <Alignment ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s66">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12"/>
+    </Style>
+    <Style ss:ID="s68">
+      <Alignment ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12"/>
+    </Style>
+    <Style ss:ID="s70">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="14" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s71">
+      <Alignment ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="14" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s73">
+      <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12"/>
+    </Style>
+    <Style ss:ID="s86">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s88">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12"/>
+    </Style>
+    <Style ss:ID="s99">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s100">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s103">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s104">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:CharSet="163" x:Family="Roman"
+       ss:Size="12" ss:Bold="1"/>
+    </Style>
+    <Style ss:ID="s112">
+      <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+    </Style>
+    <Style ss:ID="s113">
+      <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+      <Borders>
+        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </Borders>
+      <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Sheet1">
+    <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="15" x:FullColumns="1"
+     x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15.75">
+      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="96"/>
+      <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="124.5" ss:Span="1"/>
+      <Column ss:Index="4" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="115.5"
+       ss:Span="2"/>
+      <Column ss:Index="7" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="125.25"/>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:MergeAcross="1" ss:StyleID="s63">
+          <Data ss:Type="String">PHÒNG GD-ĐT Hải Châu</Data>
+        </Cell>
+        <Cell ss:StyleID="s63"/>
+        <Cell ss:StyleID="s65"/>
+        <Cell ss:StyleID="s65"/>
+        <Cell ss:StyleID="s65"/>
+        <Cell ss:StyleID="s65"/>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:MergeAcross="1" ss:StyleID="s66">
+          <Data ss:Type="String">TRƯỜNG MẦM NON 20/10</Data>
+        </Cell>
+        <Cell ss:StyleID="s66"/>
+        <Cell ss:StyleID="s68"/>
+        <Cell ss:StyleID="s68"/>
+        <Cell ss:StyleID="s68"/>
+        <Cell ss:StyleID="s68"/>
+      </Row>
+      <Row ss:Index="4" ss:AutoFitHeight="0" ss:Height="18.75">
+        <Cell ss:MergeAcross="10" ss:StyleID="s70">
+          <Data ss:Type="String">THỰC ĐƠN TUẦN</Data>
+        </Cell>
+        <Cell ss:StyleID="s71"/>
+      </Row>
+      <Row ss:Index="6" ss:AutoFitHeight="0">
+        <Cell ss:MergeAcross="11" ss:StyleID="s73">
+          <Data ss:Type="String">Nhà trẻ</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:MergeDown="1" ss:StyleID="s99">
+          <Data ss:Type="String">Thứ / Ngày</Data>
+        </Cell>
+        <Cell ss:MergeAcross="1" ss:StyleID="s100">
+          <Data ss:Type="String">Bữa sáng</Data>
+        </Cell>
+        <Cell ss:MergeAcross="1" ss:StyleID="s100">
+          <Data ss:Type="String">Bữa trưa</Data>
+        </Cell>
+        <Cell ss:MergeAcross="1" ss:StyleID="m68327084">
+          <Data ss:Type="String">Bữa tối</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0">
+        <Cell ss:Index="2" ss:StyleID="s103">
+          <Data ss:Type="String">Bữa chính</Data>
+        </Cell>
+        <Cell ss:StyleID="s103">
+          <Data ss:Type="String">Bữa phụ</Data>
+        </Cell>
+        <Cell ss:StyleID="s103">
+          <Data ss:Type="String">Bữa chính</Data>
+        </Cell>
+        <Cell ss:StyleID="s103">
+          <Data ss:Type="String">Bữa phụ</Data>
+        </Cell>
+        <Cell ss:StyleID="s103">
+          <Data ss:Type="String">Bữa chính</Data>
+        </Cell>
+        <Cell ss:StyleID="s104">
+          <Data ss:Type="String">Bữa phụ</Data>
+        </Cell>
+      </Row>
+    
+
+                       <Row ss:AutoFitHeight="0" ss:Height="45">
+                        <Cell ss:StyleID="s112"><Data ss:Type="String">Thứ 2 
+31/07/2017</Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                       </Row>       
+                    
+                       <Row ss:AutoFitHeight="0" ss:Height="45">
+                        <Cell ss:StyleID="s112"><Data ss:Type="String">Thứ 3 
+01/08/2017</Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                       </Row>       
+                    
+                       <Row ss:AutoFitHeight="0" ss:Height="45">
+                        <Cell ss:StyleID="s112"><Data ss:Type="String">Thứ 4 
+02/08/2017</Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                       </Row>       
+                    
+                       <Row ss:AutoFitHeight="0" ss:Height="45">
+                        <Cell ss:StyleID="s112"><Data ss:Type="String">Thứ 5 
+03/08/2017</Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                       </Row>       
+                    
+                       <Row ss:AutoFitHeight="0" ss:Height="45">
+                        <Cell ss:StyleID="s112"><Data ss:Type="String">Thứ 6 
+04/08/2017</Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                       </Row>       
+                    
+                       <Row ss:AutoFitHeight="0" ss:Height="45">
+                        <Cell ss:StyleID="s112"><Data ss:Type="String">Thứ 7 
+05/08/2017</Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                        <Cell ss:StyleID="s113"><Data ss:Type="String"></Data></Cell>
+                       </Row>       
+                    
+<Row ss:AutoFitHeight="0">
+  <Cell ss:StyleID="s86"/>
+  <Cell ss:Index="4" ss:MergeAcross="3" ss:StyleID="s88">
+    <Data ss:Type="String">Người lập</Data>
+  </Cell>
+</Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+  <PageSetup>
+    <Layout x:Orientation="Landscape" x:CenterHorizontal="1"/>
+    <PageMargins x:Left="0.09" x:Right="0.1" x:Top="0.5"/>
+  </PageSetup>
+  <Unsynced/>
+  <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>95</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+  </Print>
+  <Selected/>
+  <Panes>
+    <Pane>
+      <Number>3</Number>
+      <ActiveRow>9</ActiveRow>
+      <ActiveCol>3</ActiveCol>
+      <RangeSelection>R10C4:R10C7</RangeSelection>
+    </Pane>
+  </Panes>
+  <ProtectObjects>False</ProtectObjects>
+  <ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+    <ProtectObjects>False</ProtectObjects>
+    <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+</Worksheet>
+<Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+    <ProtectObjects>False</ProtectObjects>
+    <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+</Worksheet>
+</Workbook>
+

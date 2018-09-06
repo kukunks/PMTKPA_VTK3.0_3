@@ -1,0 +1,228 @@
+﻿<Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">Cộng:</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_tien}</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_protid_dv}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_protid_tv}</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_lipid_dv}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_lipid_tv}</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_gluxid}</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">{tong_mg_calo}</Data></Cell>
+    
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">B/q 1 trẻ</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_tien}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_protid_dv}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_protid_tv}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_lipid_dv}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_lipid_tv}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_gluxid}</Data></Cell>
+	<Cell ss:StyleID="s117"><Data ss:Type="String">{bq_mg_calo}</Data></Cell>	
+
+    	
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:StyleID="s117"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s117"><Data ss:Type="String">Tỷ lệ P : L : G</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s117"><Data ss:Type="String">{mg_plg_p}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s117"><Data ss:Type="String">{mg_plg_l}</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">{mg_plg_g}</Data></Cell>
+    <Cell ss:StyleID="s117"/>
+    
+   </Row>
+   
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="7" ss:StyleID="s97"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m35095300"><Data ss:Type="String">* Quyết toán trong ngày:</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m35095320"><Data
+      ss:Type="String">Thực đơn</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="m35095340"><Data ss:Type="String">Mẫu giáo</Data></Cell>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095360"><Data ss:Type="String">Calo</Data></Cell>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095380"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    
+   </Row>
+   <Row ss:AutoFitHeight="1">
+    <Cell ss:MergeAcross="3" ss:StyleID="m35095484"><Data ss:Type="String"
+      x:Ticked="1">- Hôm trước mang sang: {sodudaungay}</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m35095504"><Data
+      ss:Type="String">Bữa chính sáng:</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="m35095524"><Data ss:Type="String">{maugiao_thucdonchinh}</Data></Cell>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095544"><Data ss:Type="String">{maugiao_calo}</Data></Cell>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095564"><Data ss:Type="String">{maugiao_tile}</Data></Cell>
+    
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m35095668"><Data ss:Type="String"
+      x:Ticked="1">- Tiêu chuẩn được chi:  {duocchi}</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m35095688"><Data
+      ss:Type="String">Bữa chính chiều</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="m35095708"/>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095728"/>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095748"/>
+    
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m35095872"><Data ss:Type="String"
+      x:Ticked="1">- Tiền hỗ trợ bữa ăn:</Data></Cell>
+    <Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="m35095892"><Data
+      ss:Type="String">Bữa phụ:</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="m35095912"><Data ss:Type="String">{maugiao_thucdonphu}</Data></Cell>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095932"/>
+    <Cell ss:MergeAcross="0" ss:StyleID="m35095952"/>
+    
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m35096136"><Data ss:Type="String"
+      x:Ticked="1">- Đã chi: {tongtien}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="3" ss:StyleID="m35096156"><Data ss:Type="String"
+      x:Ticked="1">- Thừa (thiếu): {soducuoingay}</Data></Cell>
+    	<Cell ss:Index="9" ss:MergeAcross="3"><Data ss:Type="String">Kế toán:</Data></Cell>
+    	<Cell ss:MergeAcross="5"><Data ss:Type="String">Người trực tiếp nấu bếp:</Data></Cell>
+	<Cell ss:MergeAcross="4"><Data ss:Type="String">Đại diện BGH:</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.5" x:Right="0.5" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <Scale>54</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>32</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="6" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="36.75" ss:Span="11"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="11" ss:StyleID="s62"><Data ss:Type="String">Mẫu giáo: …..</Data></Cell>
+   </Row>
+   <Row ss:Index="3" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="11" ss:StyleID="m35096564"><Data ss:Type="String">Chất lượng bữa ăn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="4" ss:StyleID="m35096584"><Data ss:Type="String">Mẫu giáo</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="m35096604"><Data ss:Type="String">Mẫu giáo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Calo</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Calo</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+    <Cell ss:StyleID="s87"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R6C12</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,729 @@
+ <Row ss:AutoFitHeight="0" ss:Height="18" ss:StyleID="s63">
+    <Cell ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="m88987472"><Data
+      ss:Type="String">Họ, tên và chữ ký</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s71"><Data ss:Type="String">Năm học </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s71"><Data ss:Type="String">Năm học </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s71"><Data ss:Type="String">Năm học </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">Năm học </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s71"><Data ss:Type="String">Năm học </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Năm học </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s63">
+    <Cell ss:Index="4" ss:MergeAcross="3" ss:StyleID="s73"><Data ss:Type="String">2010 - 2011</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s73"><Data ss:Type="String">2011 - 2012</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s73"><Data ss:Type="String">2012 - 2013</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">2013 - 2014 </Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s73"><Data ss:Type="String">2014 - 2015</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">2015 - 2016</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27" ss:StyleID="s63">
+    <Cell ss:MergeAcross="2" ss:StyleID="s134"><Data ss:Type="String">CB, NV điều tra 1</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s126"><Data ss:Type="String">{Cán bộ điều tra 1}</Data><Comment
+      ss:Author="User"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" html:Size="8" html:Color="#000000">User: </Font><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="12" html:Color="#000000">Ký, ghi đủ họ tên</Font></B></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27" ss:StyleID="s63">
+    <Cell ss:MergeAcross="2" ss:StyleID="s134"><Data ss:Type="String">CB, NV điều tra 2</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s126"><Data ss:Type="String">{Cán bộ điều tra 2}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27" ss:StyleID="s63">
+    <Cell ss:MergeAcross="2" ss:StyleID="s134"><Data ss:Type="String">Chủ hộ</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s126"><Data ss:Type="String">{Chủ hộ}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="22.5">
+    <Cell ss:MergeAcross="2" ss:StyleID="s134"><Data ss:Type="String">Trưởng thôn</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s126"><Data ss:Type="String">{Trưởng thôn}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s126"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="105">
+    <Cell ss:MergeAcross="2" ss:StyleID="m88986780"><Data ss:Type="String">BCĐ PC cấp xã/phường</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m88986800"><Data ss:Type="String">Ngày    tháng     năm 201… (Ký tên, đóng dấu)                   </Data><Comment
+      ss:Author="User"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Face="Tahoma" x:Family="Swiss" html:Size="12" html:Color="#000000">Ngày… tháng… năm&#10; (Ký tên, đóng dấu)</Font></B></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m88986820"><Data ss:Type="String">Ngày   tháng   năm 201 (Ký tên, đóng dấu) </Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m88986840"><Data ss:Type="String">Ngày   tháng   năm 201  (Ký tên, đóng dấu)</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s76"><Data ss:Type="String">Ngày   tháng   năm 201  (Ký tên, đóng dấu)</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s76"><Data ss:Type="String">Ngày   tháng   năm 201 (Ký tên, đóng dấu) </Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Ngày   tháng  năm 201       (Ký tên, đóng dấu)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25" ss:StyleID="s72">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">* Ghi chú: Hướng dẫn cách điền phiếu điều tra như sau</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25" ss:StyleID="s72">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s83"><Data ss:Type="String" x:Ticked="1">- Mỗi hộ gia đình một phiếu như trên, chỉ điền thông tin của trẻ trong độ tuổi mầm non.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (3) ghi đủ tháng, năm sinh của trẻ chỉ cần ghi tháng và hai số cuối của năm sinh (VD: trẻ sinh tháng 10 năm 2009 thì ghi là 10/09).</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (4)  đánh dấu (x) nếu là nữ.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (5) ghi rõ là dân tộc gì.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (6) ghi rõ trẻ là con hay cháu của chủ hộ.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- Từ (7) đến (12) điền thông tin theo năm học ở thời điểm điều tra</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="17.25" ss:StyleID="s75">
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Trẻ học nhóm, lớp thuộc năm học nào thì ghi vào năm học ấy theo quy định sau: </Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s86"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String"> + Trẻ học nhóm 3-12 tháng ghi số 0;</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String"> + Trẻ học nhóm 12- 24 tháng ghi số 1;</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String"> + Trẻ học nhóm 24-36 tháng ghi số 2;</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String"> + Trẻ  học chương trình mẫu giáo 3 - 4 tuổi ghi số 3; </Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String"> + Trẻ  học chương trình mẫu giáo 4 – 5 tuổi ghi số 4; </Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String"> + Trẻ học chương trình mẫu giáo 5 – 6 tuổi ghi số 5.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">-  Năm trước học lớp 5-6 tuổi, năm sau lại học lớp 5-6 tuổi thì ghi tiếp vào sau cột chữ số 5 chứ không ghi học lại hoặc lưu ban.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (13) ghi tên trường trẻ đang học ở thời điểm điều tra.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s83"><Data ss:Type="String" x:Ticked="1">- (14) điền chữ (I) và số thứ tự cột của năm học trẻ chuyển đến, chữ (O) và số thứ tự cột của năm học trẻ chuyển đi.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (15) đánh dấu (x) vào ô đối với những trẻ đã học song chương trình GDMN.</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (16) Nếu có trẻ bỏ học thì điền B và số thứ tự cột của năm học điều tra (VD: Năm học 2011 - 2012 điều tra trẻ bỏ học thì ghi B8).</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">- (17) Đây là ô để điền những thông tin quan trọng nhưng không có trong phiếu, như:</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">+ Trẻ khuyết tật: Ghi rõ loại tật</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s85"><Data ss:Type="String" x:Ticked="1">+ Trẻ mồ côi cha hoặc mẹ hoặc cả cha lẫn mẹ…</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s83"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s79"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18" ss:StyleID="s78">
+    <Cell ss:Index="2" ss:StyleID="s79"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18" ss:StyleID="s78">
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:MergeAcross="16" ss:StyleID="s125"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18" ss:StyleID="s78"/>
+   <Row ss:AutoFitHeight="0" ss:Height="18" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s80">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:Height="18.75" ss:StyleID="s78">
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>27</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+     <RangeSelection>R18C11:R18C13</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

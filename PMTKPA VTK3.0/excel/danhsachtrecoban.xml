@@ -1,0 +1,939 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>TRUNGDV</Author>
+  <LastAuthor>MrGiang</LastAuthor>
+  <LastPrinted>2011-09-06T08:25:12Z</LastPrinted>
+  <Created>2011-09-01T18:13:11Z</Created>
+  <LastSaved>2011-09-05T08:00:24Z</LastSaved>
+  <Company>HP</Company>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>9525</WindowHeight>
+  <WindowWidth>16275</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m49571136">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49571156">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49571176">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49570932">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m49570952">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49570972">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49570992">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49571012">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49571032">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m49571052">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="13" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="23.25"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="58.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="53.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="26.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="43.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="27"/>
+   <Column ss:AutoFitWidth="0" ss:Width="103.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="67.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="138"/>
+   <Column ss:AutoFitWidth="0" ss:Width="69"/>
+   <Column ss:AutoFitWidth="0" ss:Width="48.75"/>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">PHÒNG GD - ĐT TÂY SƠN</Data></Cell>
+    <Cell ss:Index="11" ss:StyleID="s98"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">TRƯỜNG  MG BÌNH NGHI</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:MergeAcross="11" ss:StyleID="s64"><Data ss:Type="String">DANH SÁCH TRẺ - THÔNG TIN CƠ BẢN</Data></Cell>
+    <Cell ss:StyleID="s100"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="String">Giáo viên:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="String">Tổng số trẻ: 37</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s65"><Data ss:Type="String">Lớp học: Lớp Lá 2</Data></Cell>
+   </Row>
+   <Row ss:Index="8" ss:AutoFitHeight="0" ss:Height="40.5">
+    <Cell ss:StyleID="s66"><Data ss:Type="String">STT</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m49570932"><Data ss:Type="String">Họ tên trẻ</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Ngày sinh</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Giới tính</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Dân tộc</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ĐT ƯT</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Họ tên bố, mẹ</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Nghề nghiệp</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Địa chỉ</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Số điện thoại</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Ghi chú</Data></Cell>
+    <Cell ss:StyleID="s73"/>
+   </Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Phan Tú  Anh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">07/05/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Phạm Đình Cường </Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Trần Thị Khương</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Thành  Danh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">22/01/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Văn Bảng</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Tuyết Loan</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Trần Nữ Ái  Diễm</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">14/06/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Trần Văn Dặm </Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 3 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Lê Thị Diện</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Phạm Anh Dũng</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">17/06/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Phạm Văn Hội</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">TT Hạ - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Phạm Thị Nam</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Thu Giao</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">29/08/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Văn Danh</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Kim Ca</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">6</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Đặng Ngọc Hải</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">17/05/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Đặng Ngọc Hùng </Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">TTT - Thôn 2</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Bích Vân</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">7</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Huỳnh Thị Mỹ  Hiệp</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">13/09/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Huỳnh Văn Quí</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình NGhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Hà Thị Minh Thi</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">8</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Huỳnh Thị Mỹ  Hòa</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">13/09/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Huỳnh Văn Quý</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình NGhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Hà Thị Minh Thi</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">9</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Thái Hoài</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">15/10/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Văn Lưu</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Sao ly</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Ngọc  Hoàng</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">25/02/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Sơn</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Thúy</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">11</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Đoàn Nhật  Huy</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">06/05/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Đoàn Vĩnh Phúc</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Lan</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">12</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Phạm Minh  Huy</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">26/12/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Phạm Hoài Linh</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Hồng</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">13</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Phùng Tiến  Khải</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">15/06/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Phùng Ngọc Tài</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Ti Len</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">14</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Đình  KIên</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">11/07/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Cơ </Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Võ Thị Hồng Hạnh</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">15</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Trương Quân Kỳ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">16/03/2000</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Trương Huỳnh Lâm</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Đinh Thị Hương</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">16</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Lê Lạc  Lạc</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">14/04/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Lê Minh Nhựt</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Thúy Oanh</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">17</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Thành  Lâm</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">14/10/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Công Trí</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình NGhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Mộng VY</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">18</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Bá Linh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">06/10/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Đình Triều</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">TTT - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Kim Cúc</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">19</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Phùng Thái Hà  Linh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">27/12/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Phùng Quang Trưởng</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Tú Trinh</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Kế toán</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">20</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Võ Thúy  Linh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">22/09/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Võ Toàn Thắng</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Thơm</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">21</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Trần Nguyễn Hoàng Long</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">26/07/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Trần Quốc Bảo</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Hòa</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">22</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Huỳnh Cẩm Ly</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">26/09/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Huỳnh Tấn Quang</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Lê Thị Kim Yến</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">23</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Lương Hồng Ngọc</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">26/07/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Lương Minh Phát</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Đặng Thị Hồng Mai</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">24</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Hoài  Nguyên</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">06/09/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Văn Lành</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Diệu</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">25</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Đinh Bảo  Nhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">08/06/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Đinh Văn Trai</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Lâm Nữ Thanh Uyên</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">26</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Huỳnh Lê Yến Nhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">04/10/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Huỳnh Văn Nghĩa</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn TTT - Bình NGhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Thu Trang</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Thị Yến  Nhi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">09/12/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Hoàng Anh</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 3 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thi Sen</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">28</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Huỳnh Tấn Phát</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">03/10/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Huỳnh Trung Nghĩa</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Kim Phượng</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">29</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Phạm Ngọc Quyên</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">24/03/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Phạm Ngọc Hòa</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Trần Thị Diễm</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Thanh Sang</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">20/11/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Thơ</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Trần Thị Em Lớn</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Quốc Thiện</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">18/10/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Quốc Thịnh</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2 - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Trần Thị Mỹ Dung</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">32</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Đức  Thịnh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">27/03/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Ngọc Đồng</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn TT Hạ - Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Phạm Thị Diễm</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">33</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Đinh Thu Thuận</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">28/03/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Đinh Văn Dư</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2- Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Lý Thị Thu Ngọc</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">34</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Lâm  Thức</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">24/01/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Hữu Tần</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2- Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Nguyễn Thị Nhàn</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">35</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Nguyễn Duy  Tín</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">10/03/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nam</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Nguyễn Văn Thành</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2- Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Trần Thị Hân</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">36</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Đoàn Bảo Trâm</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">12/04/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Đoàn Ngọc Tuấn</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">Nông</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2- Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Huỳnh Thị Thu Thúy</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Nông</Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:MergeDown="1" ss:StyleID="m49570952"><Data ss:Type="Number">37</Data></Cell>
+<Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m49570972"><Data ss:Type="String">Võ Hoàng Bảo  Trâm</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49570992"><Data ss:Type="String">07/12/2008</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571012"><Data ss:Type="String">Nữ</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571032"><Data ss:Type="String">Kinh</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571052"><Data ss:Type="String"> </Data></Cell>
+<Cell ss:StyleID="s92"><Data ss:Type="String">Võ Quang Thắng</Data></Cell>
+<Cell ss:StyleID="s93"><Data ss:Type="String">CB tín dụng</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571136"><Data ss:Type="String">Thôn 2- Bình Nghi</Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571156"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:MergeDown="1" ss:StyleID="m49571176"><Data ss:Type="String"> </Data></Cell>
+</Row>
+<Row ss:AutoFitHeight="0" ss:Height="16.5">
+<Cell ss:Index="8" ss:StyleID="s95"><Data ss:Type="String">Trần Thị Mỹ Dung</Data></Cell>
+<Cell ss:StyleID="s96"><Data ss:Type="String">Kt</Data></Cell>
+</Row>
+
+   <Row>
+    <Cell ss:Index="10"><Data ss:Type="String"> </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10"><Data ss:Type="String">…,ngày…..,tháng…..năm……..</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10"><Data ss:Type="String">            Hiệu trưởng</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="10"><Data ss:Type="String">      (ký và ghi rõ họ tên)</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <PageMargins x:Bottom="0.5" x:Left="0.25" x:Right="0.25" x:Top="0.5"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

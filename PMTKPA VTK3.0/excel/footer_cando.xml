@@ -1,0 +1,38 @@
+﻿<Row ss:AutoFitHeight="0" ss:Height="16.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="17" ss:MergeAcross="8" ss:StyleID="s146"><Data ss:Type="String">{ngay}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="18" ss:MergeAcross="6" ss:StyleID="s66"><Data ss:Type="String">Hiệu trưởng</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0.118110236220472"/>
+    <Footer x:Margin="0.196850393700787"/>
+    <PageMargins x:Bottom="7.8740157480315001E-2" x:Left="0" x:Right="0"
+     x:Top="0.118110236220472"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <Scale>95</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <TopRowVisible>3</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>28</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

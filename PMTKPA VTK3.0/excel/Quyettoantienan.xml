@@ -1,0 +1,773 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>User</Author>
+  <LastAuthor>MRT</LastAuthor>
+  <LastPrinted>2011-12-19T03:10:58Z</LastPrinted>
+  <Created>2011-10-25T02:28:54Z</Created>
+  <LastSaved>2011-12-19T03:14:10Z</LastSaved>
+  <Company>HOME</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8595</WindowHeight>
+  <WindowWidth>18030</WindowWidth>
+  <WindowTopX>240</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m37536864">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <NumberFormat ss:Format="#,##0\ _þ"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+   <NumberFormat ss:Format="#,##0\ _þ"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="18" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <Interior ss:Color="#D8D8D8" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0\ _þ"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+   <NumberFormat ss:Format="#,##0\ _þ"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Bold="1"/>
+   <NumberFormat ss:Format="#,##0\ _þ"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12"/>
+   <NumberFormat ss:Format="#,##0\ _þ"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Báo ăn">
+  <Table x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15.75">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="21"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="150.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="22.5" ss:Span="30"/>
+   <Column ss:Index="34" ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="47.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="42.75"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="69"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="47.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="9" ss:StyleID="s64"><Data ss:Type="String">Sở GD&ĐT Tỉnh Nghệ An</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="9" ss:StyleID="s67"><Data ss:Type="String">Phòng GD&ĐT Huyện Kỳ Sơn</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:StyleID="s69"><Data ss:Type="String">Trường mầm non Hoa Hồng</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.25" ss:StyleID="s70">
+    <Cell ss:MergeAcross="37" ss:StyleID="s73"><Data ss:Type="String">QUYẾT TOÁN TIỀN ĂN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5" ss:StyleID="s70">
+    <Cell ss:Index="12" ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Tháng 7-2010</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s75"><Data ss:Type="String">Định mức :</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s75"><Data ss:Type="Number">015000</Data></Cell>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:StyleID="s74"/>
+    <Cell ss:Index="37" ss:StyleID="s71"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s77"><Data ss:Type="String">Lớp: Nhà trẻ 1</Data></Cell>
+    <Cell ss:Index="11" ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="37" ss:StyleID="s71"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="37" ss:StyleID="s71"/>
+   </Row>
+ <Row ss:AutoFitHeight="0" ss:Height="34.5" ss:StyleID="s64">
+<Cell ss:StyleID="s79"><Data ss:Type="String">TT</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Họ và Tên</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">6</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">7</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">8</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">9</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">10</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">11</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">12</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">13</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">14</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">15</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">16</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">17</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">18</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">19</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">20</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">21</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">22</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">23</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">24</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">25</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">26</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">27</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">28</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">29</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="Number">30</Data></Cell>
+<Cell ss:StyleID="s81"><Data ss:Type="Number">31</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="String">Tổng (ăn)</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="String">Tổng  (mua)</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="String">Vé thừa</Data></Cell>
+<Cell ss:StyleID="s82"><Data ss:Type="String">Thành tiền</Data></Cell>
+<Cell ss:StyleID="s80"><Data ss:Type="String">Ký nhận</Data></Cell>
+ </Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">1</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Nghiêm Thị  Mai</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">2</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Nguyễn Kim Ánh</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">3</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Nguyễn Hữu Dũng</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">4</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Ngô Quỳnh  Anh</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">5</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Nguyễn Thị Khánh Linh</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">6</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Ngô Nhật Minh</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">7</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Ngô Minh Vũ</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">8</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Nguyễn Như  Quyền</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+ <Row><Cell ss:StyleID="s79"><Data ss:Type="Number">9</Data></Cell>
+<Cell ss:StyleID="s79"><Data ss:Type="String">Nguyễn Tiến Thắng</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s85"/>
+<Cell ss:StyleID="s86" ss:Formula="=COUNTIF(RC[-31]:RC[-1],&quot;x&quot;)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s86"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s86" ss:Formula="=RC[-1]-RC[-2]"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=RC[-1]*R5C23"><Data ss:Type="Number"></Data></Cell>
+<Cell ss:StyleID="s83"/></Row>
+<Row ss:AutoFitHeight="0" ss:Height="18.75">
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:StyleID="s88"/>
+<Cell ss:MergeAcross="2" ss:StyleID="m37536864"><Data ss:Type="String">Tổng :</Data></Cell>
+<Cell ss:StyleID="s96" ss:Formula="=SUM(R[-9]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s96" ss:Formula="=SUM(R[-9]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s96" ss:Formula="=SUM(R[-9]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s87" ss:Formula="=SUM(R[-9]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+<Cell ss:StyleID="s83"/>
+
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="37" ss:StyleID="s71"/>
+   </Row> <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="1" ss:StyleID="s71"><Data ss:Type="String">Ghi chú:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">0 : Không ăn.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">x : Ăn.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">màu đỏ : Ngày nghỉ (T7,CN).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="27" ss:MergeAcross="9" ss:StyleID="s75"><Data ss:Type="String">Ngày 7 tháng 2 Năm 2012</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="27" ss:MergeAcross="9" ss:StyleID="s75"><Data ss:Type="String">Người lập</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape" x:CenterHorizontal="1"/>
+    <Header x:Margin="0.35433070866141736"/>
+    <Footer x:Margin="0.19685039370078741"/>
+    <PageMargins x:Bottom="0.27559055118110237" x:Left="0.51181102362204722"
+     x:Right="0.23622047244094491" x:Top="0.23622047244094491"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>65</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>10</TabColorIndex>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>22</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,80 @@
+   <Row>
+    <Cell ss:Index="7" ss:MergeAcross="2" ss:StyleID="m36524032"><Data
+      ss:Type="String">Tổng cộng dưỡng chất:</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">{tongcalo}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524052"><Data ss:Type="String">{tongprotid}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524072"><Data ss:Type="String">{tonglipid}</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="String">{tongglucid}</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7" ss:MergeAcross="2" ss:StyleID="m36524092"><Data
+      ss:Type="String">Tỉ lệ ĐV / TV (%):</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">{protiddv}</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">{protidtv}</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">{lipiddv}</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">{lipidtv}</Data></Cell>
+    <Cell ss:StyleID="s114"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="7" ss:MergeAcross="2" ss:StyleID="m36524112"><Data
+      ss:Type="String">Trung bình trong ngày:</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">{calo_tb}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524132"><Data ss:Type="String">{protid_tb}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524152"><Data ss:Type="String">{lipid_tb}</Data></Cell>
+    <Cell ss:StyleID="s114"><Data ss:Type="String">{glucid_tb}</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7" ss:MergeAcross="2" ss:StyleID="m36524256"><Data
+      ss:Type="String">P:L:G:</Data></Cell>
+    <Cell ss:StyleID="s125"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524276"><Data ss:Type="String">{p_cungcap}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524296"><Data ss:Type="String">{l_cungcap}</Data></Cell>
+    <Cell ss:StyleID="s125"><Data ss:Type="String">{g_cungcap}</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:StyleID="m36524316"><Data ss:Type="String">Thứ hai</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m36524336"><Data ss:Type="String">Thứ ba</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m36524356"><Data ss:Type="String">Thứ tư</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m36524376"><Data ss:Type="String">Thứ năm</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m36524396"><Data ss:Type="String">Thứ sáu</Data></Cell>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">Thứ bảy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="1" ss:MergeDown="7" ss:StyleID="m36524480"><Data
+      ss:Type="String">{thu2}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="7" ss:StyleID="m36524500"><Data
+      ss:Type="String">{thu3}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="7" ss:StyleID="m36524520"><Data
+      ss:Type="String">{thu4}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="7" ss:StyleID="m36524540"><Data
+      ss:Type="String">{thu5}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:MergeDown="7" ss:StyleID="m36524560"><Data
+      ss:Type="String">{thu6}</Data></Cell>
+    <Cell ss:MergeDown="7" ss:StyleID="m36524580"><Data ss:Type="String">{thu7}</Data></Cell>
+   </Row>
+   
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>24</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

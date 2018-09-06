@@ -1,0 +1,450 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>OEM</Author>
+  <LastAuthor>MrT</LastAuthor>
+  <LastPrinted>2012-01-11T03:40:07Z</LastPrinted>
+  <Created>2011-11-15T01:29:33Z</Created>
+  <LastSaved>2012-01-11T03:34:52Z</LastSaved>
+  <Company>HOME</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8700</WindowHeight>
+  <WindowWidth>15600</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName=".VnTime" x:CharSet="163" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m46188064">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187840">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187860">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187880">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187900">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187920">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187940">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187616">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187636">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187656">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187676">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187696">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187716">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187736">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187756">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187776">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187796">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m46187004">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187024">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187044">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187064">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187084">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187104">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m46187124">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Font ss:FontName=".VnTime" x:CharSet="163" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s94">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s95">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s96">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Italic="1"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="kq DG tre">
+  <Table ss:ExpandedColumnCount="29" ss:ExpandedRowCount="32" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15.75">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="26.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="25.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="32.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="24.75" ss:Span="10"/>
+   <Column ss:Index="17" ss:AutoFitWidth="0" ss:Width="24.75" ss:Span="12"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="4" ss:StyleID="s64"><Data ss:Type="String">{phong}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="4" ss:StyleID="s66"><Data ss:Type="String">{truong}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="28" ss:StyleID="s66"><Data ss:Type="String">TỔNG HỢP ĐÁNH GIÁ TRẺ CUỐI GIAI ĐOẠN, CUỐI ĐỘ TUỔI.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeDown="2" ss:StyleID="m46187004"><Data ss:Type="String">TT</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m46187024"><Data ss:Type="String">Nhóm lớp</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m46187044"><Data ss:Type="String">TS trẻ</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187064"><Data ss:Type="String">Trẻ được đánh giá</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m46187084"><Data ss:Type="String">Lĩnh vực PTTC</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m46187104"><Data ss:Type="String">Lĩnh vực PTNT</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m46187124"><Data ss:Type="String">Lĩnh vực PTNN</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m46187616"><Data ss:Type="String">Lĩnh vực PTTM</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m46187636"><Data ss:Type="String">Lĩnh vực PTTC-XH</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m46187656"><Data ss:Type="String">Xếp loại chung</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="4" ss:MergeDown="1" ss:StyleID="m46187676"><Data
+      ss:Type="String">SL</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m46187696"><Data ss:Type="String">Tỷ lệ  (%)</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187716"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187736"><Data ss:Type="String">Chưa đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187756"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187776"><Data ss:Type="String">Chưa đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187796"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187840"><Data ss:Type="String">Chưa đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187860"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187880"><Data ss:Type="String">Chưa đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187900"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187920"><Data ss:Type="String">Chưa đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46187940"><Data ss:Type="String">Đạt</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m46188064"><Data ss:Type="String">Chưa đạt</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:Index="6" ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">SL</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">Tỷ lệ %</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s92">
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">29</Data></Cell>
+   </Row>

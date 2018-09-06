@@ -1,0 +1,79 @@
+﻿ <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:StyleID="s247"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s249"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s249"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s249"/>
+    <Cell ss:StyleID="s250"/>
+    <Cell ss:StyleID="s250"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s249"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s249"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s249"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5" ss:StyleID="Default">
+    <Cell ss:StyleID="s252"/>
+    <Cell ss:Index="3" ss:StyleID="s253"/>
+    <Cell ss:StyleID="s253"/>
+    <Cell ss:StyleID="s253"/>
+    <Cell ss:StyleID="s253"/>
+    <Cell ss:StyleID="s253"/>
+    <Cell ss:Index="9" ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:Index="18" ss:MergeAcross="5" ss:StyleID="s255"><Data ss:Type="String">{ngay}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75" ss:StyleID="s23">
+    <Cell ss:StyleID="s256"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s257"><Data ss:Type="String">HIỆU TRƯỞNG</Data></Cell>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s259"/>
+    <Cell ss:Index="18" ss:MergeAcross="5" ss:StyleID="s257"><Data ss:Type="String">NGƯỜI TỔNG HỢP</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75" ss:StyleID="s23">
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+    <Cell ss:StyleID="s257"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:CenterHorizontal="1"/>
+    <PageMargins x:Bottom="0.25" x:Left="0.19" x:Right="0" x:Top="0.25"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>80</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <TopRowVisible>12</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>49</ActiveRow>
+     <ActiveCol>14</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,93 @@
+﻿ <Row>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m37353948"><Data ss:Type="String">* Quyết toán trong ngày:</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s105"><Data ss:Type="String">Người đi chợ</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s82"><Data ss:Type="String">Kế toán</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String" x:Ticked="1">- Hôm trước mang sang: </Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">{Mangsang}</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s80"><Data ss:Type="String" x:Ticked="1">- Tiêu chuẩn được chi: </Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">{DuocChi}</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s80"><Data ss:Type="String" x:Ticked="1">- Tiền hỗ trợ bữa ăn:</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s80"><Data ss:Type="String" x:Ticked="1">- Đã chi(Không bao gồm kho): </Data></Cell>
+    <Cell ss:StyleID="s81" ss:Formula="={dachikhongbaogomkho}"><Data ss:Type="Number">825185</Data></Cell>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:StyleID="s78"/>
+    <Cell ss:Index="7" ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+<Row>
+  <Cell ss:Index="2" ss:StyleID="s80">
+    <Data ss:Type="String" x:Ticked="1">- Đã chi(bao gồm kho): </Data>
+  </Cell>
+  <Cell ss:StyleID="s81" ss:Formula="=R[-10]C[5]">
+    <Data ss:Type="Number">825185</Data>
+  </Cell>
+  <Cell ss:StyleID="s78"/>
+  <Cell ss:StyleID="s78"/>
+  <Cell ss:Index="7" ss:StyleID="s70"/>
+  <Cell ss:StyleID="s70"/>
+</Row>  
+</Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape" x:CenterHorizontal="1"/>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="1" x:Right="1" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>10</TabColorIndex>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <DoNotDisplayHeadings/>
+   <TopRowVisible>9</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>22</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>

@@ -1,0 +1,124 @@
+﻿  <Row>
+    <Cell ss:Index="10" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s91"/>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">K</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093488"><Data ss:Type="String">P</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093508"><Data ss:Type="String">L</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">G</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m31093528"><Data ss:Type="String">P:L:G</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s103"><Data ss:Type="String">Nhu cầu</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">{knhucau}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093632"><Data ss:Type="String">{pnhucau}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093652"><Data ss:Type="String">{lnhucau}</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">{gnhucau}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m31093672"><Data ss:Type="String">{plgnhucau}</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s103"><Data ss:Type="String">Cung cấp</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">{kcungcap}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093692"><Data ss:Type="String">{pcungcap}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093712"><Data ss:Type="String">{lcungcap}</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">{gcungcap}</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m31093732"><Data ss:Type="String">{plgcungcap}</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeDown="1" ss:StyleID="m31093856"><Data
+      ss:Type="String">Tỉ lệ ĐV/TV (%)</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m31093876"/>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ĐV</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">TV</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">ĐV</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">TV</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m31093896"/>
+    <Cell ss:StyleID="s129"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s91"><Data ss:Type="String">{protiddv}</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">{protidtv}</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">{lipiddv}</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="String">{lipidtv}</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s129"/>
+    <Cell ss:StyleID="s130"/>
+    <Cell ss:StyleID="s131"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s103"><Data ss:Type="String">Tỉ lệ đạt (%)</Data></Cell>
+    <Cell ss:StyleID="s104"><Data ss:Type="String">{kdat}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093916"><Data ss:Type="String">{pdat}</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m31093936"><Data ss:Type="String">{ldat}</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">{gdat}</Data></Cell>
+    <Cell ss:StyleID="s132"/>
+    <Cell ss:StyleID="s133"/>
+    <Cell ss:StyleID="s134"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="10" ss:MergeAcross="2" ss:StyleID="s64"><Data ss:Type="String">Hiệu phó bán trú</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:Span="1"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>6</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

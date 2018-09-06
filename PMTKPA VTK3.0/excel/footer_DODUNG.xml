@@ -1,0 +1,49 @@
+﻿
+ <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s72"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+  
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:MergeAcross="16" ss:StyleID="s119"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape"/>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.59055118110236227" x:Left="0" x:Right="0"
+     x:Top="0.59055118110236227"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <DoNotDisplayHeadings/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

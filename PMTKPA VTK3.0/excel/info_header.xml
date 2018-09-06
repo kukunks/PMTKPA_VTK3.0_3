@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Ngo Quang Thuc</Author>
+  <LastAuthor>Ngo Quang Thuc</LastAuthor>
+  <LastPrinted>2010-07-06T18:19:52Z</LastPrinted>
+  <Created>2010-07-06T17:53:27Z</Created>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6660</WindowHeight>
+  <WindowWidth>18135</WindowWidth>
+  <WindowTopX>360</WindowTopX>
+  <WindowTopY>105</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m37454496">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m37454516">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m37454536">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="m37454556">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#333333"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#333333"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#333333"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#333399" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#993366"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#993366"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#993366"/>
+   </Borders>
+   <Font ss:FontName="Tahoma" x:Family="Swiss" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s81">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="155.25" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m37454496"><Data ss:Type="String">Nhận xét của giáo viên</Data></Cell>
+   </Row>
+   
+   <Row ss:Index="7" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m37454516"><Data ss:Type="String">Kết quả học tập</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">PTTC</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{PTTC}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PTNN</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{PTNN}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PTNT</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{PTNT}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PTTC - QHXH</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{QHXH}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">PTTM</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{PTTM}</Data></Cell>
+   </Row>
+   <Row ss:Index="15" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m37454536"><Data ss:Type="String">Kết quả kiểm tra sức khỏe trong tháng</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Cân nặng</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{CN}</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s77"><Data ss:Type="String">Chiều cao</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">{CC}</Data></Cell>
+   </Row>
+   <Row ss:Index="19" ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="1" ss:StyleID="m37454556"><Data ss:Type="String">Thông tin cá nhân</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Thuộc tính</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">Giá trị</Data></Cell>
+   </Row>

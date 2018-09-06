@@ -1,0 +1,74 @@
+﻿
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="37" ss:StyleID="s71"/>
+   </Row> <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="1" ss:StyleID="s71"><Data ss:Type="String">Ghi chú:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">0 : Không ăn.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">x : Ăn.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15" ss:StyleID="s70">
+    <Cell ss:Index="2" ss:StyleID="s71"><Data ss:Type="String">màu đỏ : Ngày nghỉ (T7,CN).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="27" ss:MergeAcross="9" ss:StyleID="s75"><Data ss:Type="String">Ngày {ngay} tháng {thang} Năm {nam}</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="27" ss:MergeAcross="9" ss:StyleID="s75"><Data ss:Type="String">Người lập</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape" x:CenterHorizontal="1"/>
+    <Header x:Margin="0.35433070866141736"/>
+    <Footer x:Margin="0.19685039370078741"/>
+    <PageMargins x:Bottom="0.27559055118110237" x:Left="0.51181102362204722"
+     x:Right="0.23622047244094491" x:Top="0.23622047244094491"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>65</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <TabColorIndex>10</TabColorIndex>
+   <Zoom>85</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>22</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1">
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

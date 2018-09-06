@@ -1,0 +1,694 @@
+﻿<html>
+  <head>
+    <style type="text/css">table{border-collapse:collapse;border-spacing:0;empty-cells:show}
+.X0{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X1{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:21;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X2{color:rgb(51,51,51);font-family:Arial;font-size:12pt;background-color:rgb(255,255,255);height:21;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);font-weight:bold;vertical-align:bottom;text-align:general}
+.X3{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:center}
+.X4{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:center;text-align:center}
+.X5{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-bottom:solid;border-bottom-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X6{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);font-weight:bold;vertical-align:center;text-align:center}
+.X7{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);font-weight:bold;vertical-align:bottom;text-align:center}
+.X8{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:center}
+.X9{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:left}
+.X10{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X11{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:right}
+.X12{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X13{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X14{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:dotted;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:right}
+.X15{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:dotted;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:center;text-align:center}
+.X16{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X17{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:dotted;border-top-width:1;border-bottom:dotted;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:right}
+.X18{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:dotted;border-top-width:1;border-bottom:dotted;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:center;text-align:center}
+.X19{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-bottom:solid;border-bottom-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:general}
+.X20{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:dotted;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:bottom;text-align:right}
+.X21{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:dotted;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:center;text-align:center}
+.X22{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);font-weight:bold;vertical-align:bottom;text-align:general}
+.X23{color:rgb(51,51,51);font-family:Arial;font-size:10pt;background-color:rgb(255,255,255);height:17;border-top:solid;border-top-width:1;border-bottom:solid;border-bottom-width:1;border-left:solid;border-left-width:1;border-right:solid;border-right-width:1;border-top-color:rgb(0,0,0);border-bottom-color:rgb(0,0,0);border-left-color:rgb(0,0,0);border-right-color:rgb(0,0,0);vertical-align:center;text-align:left}</style>
+  </head>
+  <h2 style="color:red"></h2>
+  <body>
+    <table cellspacing="0">
+      <Col width="39" />
+      <Col width="144" />
+      <Col width="55" />
+      <Col width="55" />
+      <Col width="55" />
+      <Col width="55" />
+      <Col width="55" />
+      <Col width="55" />
+      <Col width="70" />
+      <Col width="81" />
+      <Col width="44" />
+      <Col width="47" />
+      <Col width="46" />
+      <Col width="46" />
+      <Col width="64" />
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0" COLSPAN="2">PHÒNG GD-ĐT QUẢNG TRẠCH</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0" COLSPAN="4">Vụ Giáo Dục Mầm Non</td>
+        <td class="X0">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0" COLSPAN="3">TRƯỜNG MẦM NON QUẢNG SƠN</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X1">&nbsp;</td>
+        <td class="X1">&nbsp;</td>
+        <td class="X1">&nbsp;</td>
+        <td class="X2" COLSPAN="8">BẢNG TỔNG HỢP KHẨU PHẦN DINH DƯỠNG TRONG TUẦN</td>
+        <td class="X1">&nbsp;</td>
+        <td class="X1">&nbsp;</td>
+        <td class="X1">&nbsp;</td>
+        <td class="X1">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X3">&nbsp;</td>
+        <td class="X3">&nbsp;</td>
+        <td class="X4" COLSPAN="4">Từ ngày 07/12/2015 đến ngày 12/12/2015</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">Loại trẻ: Nhà trẻ</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">Tổng số trẻ: 60</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+      </tr>
+      <tr>
+        <td ROWSPAN="3" class="X6">STT</td>
+        <td class="X7">Thứ</td>
+        <td class="X7">Thứ 2</td>
+        <td class="X7">Thứ 3</td>
+        <td class="X7">Thứ 4</td>
+        <td class="X7">Thứ 5</td>
+        <td class="X7">Thứ 6</td>
+        <td class="X7">Thứ 7</td>
+        <td ROWSPAN="2" class="X6">Tổng cộng</td>
+        <td ROWSPAN="3" class="X6">Năng lượng (Kcal)</td>
+        <td COLSPAN="2" ROWSPAN="2" class="X6">Đạm (g)</td>
+        <td COLSPAN="2" ROWSPAN="2" class="X6">Béo (g)</td>
+        <td ROWSPAN="3" class="X6">Đường bột (g)</td>
+      </tr>
+      <tr>
+        <td class="X7">Ngày</td>
+        <td class="X8">7/12</td>
+        <td class="X8">8/12</td>
+        <td class="X8">9/12</td>
+        <td class="X8">10/12</td>
+        <td class="X8">11/12</td>
+        <td class="X8">12/12</td>
+      </tr>
+      <tr>
+        <td class="X7">Tên thực phẩm</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X8">&nbsp;</td>
+        <td class="X7">ĐV</td>
+        <td class="X7">TV</td>
+        <td class="X7">ĐV</td>
+        <td class="X7">TV</td>
+      </tr>
+      <tr>
+        <td class="X8">1</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.36</td>
+        <td class="X11">0.18</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.54</td>
+        <td class="X11">314.3</td>
+        <td class="X11">59</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">8.7</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">2</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.2</td>
+        <td class="X11">0.1</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.3</td>
+        <td class="X11">1149</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">3.3</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">283.8</td>
+      </tr>
+      <tr>
+        <td class="X8">3</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.02</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.02</td>
+        <td class="X11">81.4</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">19.9</td>
+      </tr>
+      <tr>
+        <td class="X8">4</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">5</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.07</td>
+        <td class="X11">0.2</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.27</td>
+        <td class="X11">2735.8</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">304.1</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">6</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">2.45</td>
+        <td class="X11">0.9</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">3.35</td>
+        <td class="X11">15907.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">342.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">45.1</td>
+        <td class="X11">3433.9</td>
+      </tr>
+      <tr>
+        <td class="X8">7</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.17</td>
+        <td class="X11">0.085</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.255</td>
+        <td class="X11">1419.6</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">48.7</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">112.4</td>
+        <td class="X11">43.1</td>
+      </tr>
+      <tr>
+        <td class="X8">8</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.3</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.3</td>
+        <td class="X11">26.3</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">5.3</td>
+      </tr>
+      <tr>
+        <td class="X8">9</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.1</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.1</td>
+        <td class="X11">19</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.6</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">4</td>
+      </tr>
+      <tr>
+        <td class="X8">10</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.45</td>
+        <td class="X11">0.225</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.675</td>
+        <td class="X11">223.8</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">8.6</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">45.9</td>
+      </tr>
+      <tr>
+        <td class="X8">11</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.1</td>
+        <td class="X11">0.05</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.15</td>
+        <td class="X11">28.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">1.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">5.5</td>
+      </tr>
+      <tr>
+        <td class="X8">12</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.06</td>
+        <td class="X11">0.03</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.09</td>
+        <td class="X11">16.6</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.9</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">3.1</td>
+      </tr>
+      <tr>
+        <td class="X8">13</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.8</td>
+        <td class="X11">0.4</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">1.2</td>
+        <td class="X11">767</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">16.3</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">171.4</td>
+      </tr>
+      <tr>
+        <td class="X8">14</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.38</td>
+        <td class="X11">0.19</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.57</td>
+        <td class="X11">119.1</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">14.1</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">15.2</td>
+      </tr>
+      <tr>
+        <td class="X8">15</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">16</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.8</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.8</td>
+        <td class="X11">1121.1</td>
+        <td class="X11">149</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">54.9</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">17</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.05</td>
+        <td class="X11">0.01</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.06</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">18</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.1</td>
+        <td class="X11">0.05</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.15</td>
+        <td class="X11">90</td>
+        <td class="X11">22.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">19</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.07</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.07</td>
+        <td class="X11">12.7</td>
+        <td class="X11">3.1</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">20</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.05</td>
+        <td class="X11">0.025</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.075</td>
+        <td class="X11">38</td>
+        <td class="X11">9.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">21</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.3</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.3</td>
+        <td class="X11">246</td>
+        <td class="X11">52.8</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">2.7</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">2.7</td>
+      </tr>
+      <tr>
+        <td class="X8">22</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.86</td>
+        <td class="X11">0.43</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">1.29</td>
+        <td class="X11">3457.2</td>
+        <td class="X11">219.3</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">285.1</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">23</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">1.67</td>
+        <td class="X11">0.835</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">2.505</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0</td>
+        <td class="X11">0</td>
+      </tr>
+      <tr>
+        <td class="X8">24</td>
+        <td class="X9">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">0.5</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">0.5</td>
+        <td class="X11">1285</td>
+        <td class="X11">107</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">88</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">1.5</td>
+      </tr>
+      <tr>
+        <td class="X8">25</td>
+        <td class="X9">Đậu đen</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">20</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X10">20</td>
+        <td class="X11">65464</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">4743.2</td>
+        <td class="X10">&nbsp;</td>
+        <td class="X11">333.2</td>
+        <td class="X11">10446.8</td>
+      </tr>
+      <tr>
+        <td class="X12">&nbsp;</td>
+        <td class="X12">&nbsp;</td>
+        <td class="X12">&nbsp;</td>
+        <td class="X12">&nbsp;</td>
+        <td class="X12">&nbsp;</td>
+        <td class="X13">&nbsp;</td>
+        <td COLSPAN="3" class="X14">Tổng cộng dưỡng chất:</td>
+        <td class="X15">94521.9</td>
+        <td COLSPAN="2" class="X15">5801.9</td>
+        <td COLSPAN="2" class="X15">1234.2</td>
+        <td class="X15">14482.1</td>
+      </tr>
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X16">&nbsp;</td>
+        <td COLSPAN="3" class="X17">Tỉ lệ ĐV / TV (%):</td>
+        <td class="X18">&nbsp;</td>
+        <td class="X18">10.7</td>
+        <td class="X18">89.3</td>
+        <td class="X18">35.6</td>
+        <td class="X18">64.4</td>
+        <td class="X18">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X0">&nbsp;</td>
+        <td class="X16">&nbsp;</td>
+        <td COLSPAN="3" class="X17">Trung bình trong ngày:</td>
+        <td class="X18">1575.4</td>
+        <td COLSPAN="2" class="X18">1575.4</td>
+        <td COLSPAN="2" class="X18">1575.4</td>
+        <td class="X18">1575.4</td>
+      </tr>
+      <tr>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X5">&nbsp;</td>
+        <td class="X19">&nbsp;</td>
+        <td COLSPAN="3" class="X20">P:L:G:</td>
+        <td class="X21">&nbsp;</td>
+        <td COLSPAN="2" class="X21">19</td>
+        <td COLSPAN="2" class="X21">23.5</td>
+        <td class="X21">57.5</td>
+      </tr>
+      <tr>
+        <td COLSPAN="2" class="X7">Thứ hai</td>
+        <td COLSPAN="3" class="X7">Thứ ba</td>
+        <td COLSPAN="3" class="X7">Thứ tư</td>
+        <td COLSPAN="3" class="X7">Thứ năm</td>
+        <td COLSPAN="3" class="X7">Thứ sáu</td>
+        <td class="X22">Thứ bảy</td>
+      </tr>
+      <tr>
+        <td COLSPAN="2" ROWSPAN="8" class="X23">&nbsp;</td>
+        <td COLSPAN="3" ROWSPAN="8" class="X23">'- Sáng:                                    + Bữa chính:Cơm trắng:
+Món mặn: Thịt hầm khoai tây cà rốt
+Canh: Rau nấu thịt                           + Bữa phụ:Cháo gạo nấu cá mè vừng'- Tối:                                    + Bữa chính:ádsad                           + Bữa phụ:dsadsadsad</td>
+        <td COLSPAN="3" ROWSPAN="8" class="X23">'- Sáng:                                    + Bữa chính:vava                           + Bữa phụ:vsfvvqv </td>
+        <td COLSPAN="3" ROWSPAN="8" class="X23">&nbsp;</td>
+        <td COLSPAN="3" ROWSPAN="8" class="X23">&nbsp;</td>
+        <td ROWSPAN="8" class="X23">&nbsp;</td>
+      </tr>
+      <tr />
+      <tr />
+      <tr />
+      <tr />
+      <tr />
+      <tr />
+      <tr />
+    </table>
+  </body>
+</html>
